@@ -107,6 +107,16 @@ a.res:hover {
     color: #411575;
 }
 
+.ref-links a {
+    color: #411575;
+    text-decoration:none;
+    transition-duration: 0.2s; 
+}
+
+.ref-links a:hover {
+    text-decoration: underline;
+}
+
 /* List styles */
 
 li {
